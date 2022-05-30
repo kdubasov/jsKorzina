@@ -39,7 +39,7 @@ class ShoppingCart{
                                 <p class="cart-info-price">${elem.price} ₽</p>
                             </div>
                             <div onclick="shoppingPage.handleDeleteTovar('${elem.id}')">
-                                <img class="close-card-shop-cart" alt="delete" src="../../images/shopCart/delete.svg">
+                                <img class="close-card-shop-cart" alt="delete" src="images/shopCart/delete.svg">
                             </div>
                         </div>
                         <div class="footer-inner-shop-cart">
