@@ -60,7 +60,7 @@ class ShoppingCart{
 
         const html = `
             <div class="shop-cart-main">
-                <img onclick="shoppingPage.handleClear()" class="close-but" alt="close" src="../../images/shopCart/close.png">
+                <img onclick="shoppingPage.handleClear()" class="close-but" alt="close" src="images/shopCart/close.png">
                 
                 <div class="shop-cart-card-container">
                     ${htmlCatalog}
