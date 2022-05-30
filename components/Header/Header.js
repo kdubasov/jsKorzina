@@ -12,10 +12,10 @@ class Header{
             <div class="d-flex">
                 <div onclick="headerPage.handleOpenShopCart()">
                     <div class="counter-nav-top-korz"><p>${count}</p></div>
-                    <img alt="serdce" src="../../images/navbarTop/serdce.svg">
+                    <img alt="serdce" src="images/navbarTop/serdce.svg">
                 </div>
                 <div>
-                    <img alt="korz" src="../../images/navbarTop/korz.svg">
+                    <img alt="korz" src="images/navbarTop/korz.svg">
                 </div>
             </div>
           </div>
